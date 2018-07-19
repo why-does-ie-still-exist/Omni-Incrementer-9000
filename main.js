@@ -1,3 +1,5 @@
+/* Made with love by Michael Owens, 2018*/
+
 var regex = /[^\D.]+/u;
 var num = 1
 
